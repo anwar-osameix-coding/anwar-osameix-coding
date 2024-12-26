@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anwar-osameix-coding
-- 👀 I’m interested in coding and mathematics 
-- 🌱 I’m currently learning Information system
+- 👋 Hi, I’m @anwar
+- 👀 I’m interested in design and coding 
+- 🌱 I’m currently learning Information system.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anwarhussen3683@gmail.com
 - 😄 Pronouns: ...
